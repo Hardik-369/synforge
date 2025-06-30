@@ -52,8 +52,7 @@ We welcome contributors passionate about open-source, privacy, and AI!
 1. Fork the repo  
 2. Check open issues  
 3. Submit a pull request  
-4. Join discussions or contact us at **synforge@protonmail.com**
-
+4. Join discussions 
 ---
 
 ## 📄 License

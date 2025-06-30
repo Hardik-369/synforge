@@ -17,7 +17,6 @@
 
 ## 🛠 Example CLI Usage
 
-```bash
 synforge upload --file patient_data.csv --domain healthcare
 synforge generate --model ctgan --rows 5000
 synforge export --out ./synthetic_output.csv
@@ -60,6 +59,8 @@ We welcome contributors passionate about open-source, privacy, and AI!
 ## 📄 License
 
 MIT License. Free for personal and commercial use.
+
+```bash
 
 ---
 
